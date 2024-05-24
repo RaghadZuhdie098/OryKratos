@@ -1,0 +1,12 @@
+//
+//  Config.xcconfig
+//  OryKratos-Raghad'sTest
+//
+//  Created by raghad zuhdie on 23/05/2024.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+
+ory_kratos_slug = /adoring-cartwright-530oeajlza
+ory_kratos_url = https:/$(ory_kratos_slug).projects.oryapis.com/self-service/registration/browser

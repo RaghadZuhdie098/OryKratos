@@ -21,5 +21,7 @@
 			</array>
 		</dict>
 	</dict>
+	<key>OryKratosURL</key>
+	<string>${ory_kratos_url}</string>
 </dict>
 </plist>

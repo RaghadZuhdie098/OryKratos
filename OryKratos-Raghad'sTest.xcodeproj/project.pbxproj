@@ -9,21 +9,22 @@
 /* Begin PBXBuildFile section */
 		2FC968452BFE5A8100589F26 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2FC968442BFE5A8100589F26 /* AppDelegate.swift */; };
 		2FC968472BFE5A8100589F26 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2FC968462BFE5A8100589F26 /* SceneDelegate.swift */; };
-		2FC968492BFE5A8100589F26 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2FC968482BFE5A8100589F26 /* ViewController.swift */; };
 		2FC9684C2BFE5A8100589F26 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2FC9684A2BFE5A8100589F26 /* Main.storyboard */; };
 		2FC9684E2BFE5A8200589F26 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2FC9684D2BFE5A8200589F26 /* Assets.xcassets */; };
 		2FC968512BFE5A8200589F26 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2FC9684F2BFE5A8200589F26 /* LaunchScreen.storyboard */; };
+		2FC968632BFE5DD900589F26 /* OryKratosSignUpViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2FC968622BFE5DD800589F26 /* OryKratosSignUpViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		2F3DAC922BFFC0A600CE44F6 /* Config.xcconfig */ = {isa = PBXFileReference; lastKnownFileType = text.xcconfig; path = Config.xcconfig; sourceTree = "<group>"; };
 		2FC968412BFE5A8100589F26 /* OryKratos-Raghad'sTest.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "OryKratos-Raghad'sTest.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		2FC968442BFE5A8100589F26 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		2FC968462BFE5A8100589F26 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		2FC968482BFE5A8100589F26 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		2FC9684B2BFE5A8100589F26 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		2FC9684D2BFE5A8200589F26 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		2FC968502BFE5A8200589F26 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		2FC968522BFE5A8200589F26 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		2FC968622BFE5DD800589F26 /* OryKratosSignUpViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = OryKratosSignUpViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,13 +59,30 @@
 			children = (
 				2FC968442BFE5A8100589F26 /* AppDelegate.swift */,
 				2FC968462BFE5A8100589F26 /* SceneDelegate.swift */,
-				2FC968482BFE5A8100589F26 /* ViewController.swift */,
+				2FC9685B2BFE5AA900589F26 /* Auth */,
 				2FC9684A2BFE5A8100589F26 /* Main.storyboard */,
 				2FC9684D2BFE5A8200589F26 /* Assets.xcassets */,
 				2FC9684F2BFE5A8200589F26 /* LaunchScreen.storyboard */,
 				2FC968522BFE5A8200589F26 /* Info.plist */,
+				2F3DAC922BFFC0A600CE44F6 /* Config.xcconfig */,
 			);
 			path = "OryKratos-Raghad'sTest";
+			sourceTree = "<group>";
+		};
+		2FC968582BFE5A8B00589F26 /* View */ = {
+			isa = PBXGroup;
+			children = (
+				2FC968622BFE5DD800589F26 /* OryKratosSignUpViewController.swift */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		2FC9685B2BFE5AA900589F26 /* Auth */ = {
+			isa = PBXGroup;
+			children = (
+				2FC968582BFE5A8B00589F26 /* View */,
+			);
+			path = Auth;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -138,7 +156,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				2FC968492BFE5A8100589F26 /* ViewController.swift in Sources */,
+				2FC968632BFE5DD900589F26 /* OryKratosSignUpViewController.swift in Sources */,
 				2FC968452BFE5A8100589F26 /* AppDelegate.swift in Sources */,
 				2FC968472BFE5A8100589F26 /* SceneDelegate.swift in Sources */,
 			);
@@ -287,6 +305,7 @@
 		};
 		2FC968562BFE5A8200589F26 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 2F3DAC922BFFC0A600CE44F6 /* Config.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
@@ -314,6 +333,7 @@
 		};
 		2FC968572BFE5A8200589F26 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 2F3DAC922BFFC0A600CE44F6 /* Config.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;

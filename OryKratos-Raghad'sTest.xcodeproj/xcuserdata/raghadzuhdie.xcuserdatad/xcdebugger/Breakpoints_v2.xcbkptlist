@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "4D61A2E8-4513-44F4-A748-6BB8DF3B36F0"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "432222A5-0181-4E23-9881-2F33B87ACEA0"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "OryKratos-Raghad&apos;sTest/Auth/Network.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "84"
+            endingLineNumber = "84"
+            landmarkName = "signUp(completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "432222A5-0181-4E23-9881-2F33B87ACEA0 - 43cd4464fcf74ba0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "OryKratos_Raghad_sTest.Network.signUp(completion: (Swift.Result&lt;OryKratos_Raghad_sTest.User, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "OryKratos-Raghad&apos;sTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/raghadzuhdie/Desktop/Practices%20/OryKratos-Raghad&apos;sTest/OryKratos-Raghad&apos;sTest/Auth/Network.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "77"
+                  endingLineNumber = "77"
+                  offsetFromSymbolStart = "720">
+               </Location>
+               <Location
+                  uuid = "432222A5-0181-4E23-9881-2F33B87ACEA0 - 817c00425ffcfbf4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in OryKratos_Raghad_sTest.Network.signUp(completion: (Swift.Result&lt;OryKratos_Raghad_sTest.User, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "OryKratos-Raghad&apos;sTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/raghadzuhdie/Desktop/Practices%20/OryKratos-Raghad&apos;sTest/OryKratos-Raghad&apos;sTest/Auth/Network.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "78"
+                  endingLineNumber = "78"
+                  offsetFromSymbolStart = "376">
+               </Location>
+               <Location
+                  uuid = "432222A5-0181-4E23-9881-2F33B87ACEA0 - 43cd4464fcf74ba0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "OryKratos_Raghad_sTest.Network.signUp(completion: (Swift.Result&lt;OryKratos_Raghad_sTest.User, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "OryKratos-Raghad&apos;sTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/raghadzuhdie/Desktop/Practices%20/OryKratos-Raghad&apos;sTest/OryKratos-Raghad&apos;sTest/Auth/Network.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "77"
+                  endingLineNumber = "77"
+                  offsetFromSymbolStart = "484">
+               </Location>
+               <Location
+                  uuid = "432222A5-0181-4E23-9881-2F33B87ACEA0 - 43cd4464fcf7548b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "OryKratos_Raghad_sTest.Network.signUp(completion: (Swift.Result&lt;OryKratos_Raghad_sTest.User, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "OryKratos-Raghad&apos;sTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/raghadzuhdie/Desktop/Practices%20/OryKratos-Raghad&apos;sTest/OryKratos-Raghad&apos;sTest/Auth/Network.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "84"
+                  endingLineNumber = "84"
+                  offsetFromSymbolStart = "484">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B8AE6E16-0B8E-480B-AE75-E501AB2A6F8B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "OryKratos-Raghad&apos;sTest/Auth/View/Registration.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "80"
+            endingLineNumber = "80"
+            landmarkName = "webView(_:didFinish:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "B8AE6E16-0B8E-480B-AE75-E501AB2A6F8B - 156c8eddfff408c0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "OryKratos_Raghad_sTest.ViewController.webView(_: __C.WKWebView, didFinish: Swift.Optional&lt;__C.WKNavigation&gt;) -&gt; ()"
+                  moduleName = "OryKratos-Raghad&apos;sTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/raghadzuhdie/Desktop/Practices%20/OryKratos-Raghad&apos;sTest/OryKratos-Raghad&apos;sTest/Auth/View/Registration.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "68"
+                  endingLineNumber = "68"
+                  offsetFromSymbolStart = "236">
+               </Location>
+               <Location
+                  uuid = "B8AE6E16-0B8E-480B-AE75-E501AB2A6F8B - 156c8eddfff408c0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "OryKratos_Raghad_sTest.ViewController.webView(_: __C.WKWebView, didFinish: Swift.Optional&lt;__C.WKNavigation&gt;) -&gt; ()"
+                  moduleName = "OryKratos-Raghad&apos;sTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/raghadzuhdie/Desktop/Practices%20/OryKratos-Raghad&apos;sTest/OryKratos-Raghad&apos;sTest/Auth/View/Registration.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "68"
+                  endingLineNumber = "68"
+                  offsetFromSymbolStart = "76">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CFD3D6E2-7EA5-4E61-B8EB-86CC7B923513"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "OryKratos-Raghad&apos;sTest/Auth/View/Registration.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "85"
+            endingLineNumber = "85"
+            landmarkName = "webView(_:didFail:withError:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "CFD3D6E2-7EA5-4E61-B8EB-86CC7B923513 - 780d7db559f5b054"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "OryKratos_Raghad_sTest.ViewController.webView(_: __C.WKWebView, didFail: Swift.Optional&lt;__C.WKNavigation&gt;, withError: Swift.Error) -&gt; ()"
+                  moduleName = "OryKratos-Raghad&apos;sTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/raghadzuhdie/Desktop/Practices%20/OryKratos-Raghad&apos;sTest/OryKratos-Raghad&apos;sTest/Auth/View/Registration.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "73"
+                  endingLineNumber = "73"
+                  offsetFromSymbolStart = "244">
+               </Location>
+               <Location
+                  uuid = "CFD3D6E2-7EA5-4E61-B8EB-86CC7B923513 - 780d7db559f5b054"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "OryKratos_Raghad_sTest.ViewController.webView(_: __C.WKWebView, didFail: Swift.Optional&lt;__C.WKNavigation&gt;, withError: Swift.Error) -&gt; ()"
+                  moduleName = "OryKratos-Raghad&apos;sTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/raghadzuhdie/Desktop/Practices%20/OryKratos-Raghad&apos;sTest/OryKratos-Raghad&apos;sTest/Auth/View/Registration.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "73"
+                  endingLineNumber = "73"
+                  offsetFromSymbolStart = "84">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1181C1BD-5E4F-498F-A146-59967A438889"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "OryKratos-Raghad&apos;sTest/Auth/View/Registration.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "90"
+            endingLineNumber = "90"
+            landmarkName = "webView(_:didFailProvisionalNavigation:withError:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "1181C1BD-5E4F-498F-A146-59967A438889 - fe7e97114e565f57"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "OryKratos_Raghad_sTest.ViewController.webView(_: __C.WKWebView, didFailProvisionalNavigation: Swift.Optional&lt;__C.WKNavigation&gt;, withError: Swift.Error) -&gt; ()"
+                  moduleName = "OryKratos-Raghad&apos;sTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/raghadzuhdie/Desktop/Practices%20/OryKratos-Raghad&apos;sTest/OryKratos-Raghad&apos;sTest/Auth/View/Registration.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "78"
+                  endingLineNumber = "78"
+                  offsetFromSymbolStart = "244">
+               </Location>
+               <Location
+                  uuid = "1181C1BD-5E4F-498F-A146-59967A438889 - fe7e97114e565f57"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "OryKratos_Raghad_sTest.ViewController.webView(_: __C.WKWebView, didFailProvisionalNavigation: Swift.Optional&lt;__C.WKNavigation&gt;, withError: Swift.Error) -&gt; ()"
+                  moduleName = "OryKratos-Raghad&apos;sTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/raghadzuhdie/Desktop/Practices%20/OryKratos-Raghad&apos;sTest/OryKratos-Raghad&apos;sTest/Auth/View/Registration.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "78"
+                  endingLineNumber = "78"
+                  offsetFromSymbolStart = "84">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
